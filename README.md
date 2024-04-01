@@ -1,7 +1,7 @@
 
 # API Foro Alura
 
-![API Foro Alura](https://socialify.git.ci/dainercortes/challenge-one-foro-alura/image?font=Jost&issues=1&language=1&logo=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fspring-3.svg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
+![API Foro Alura](https://socialify.git.ci/nosmow/challenge-one-foro-alura/image?font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center" > 
@@ -310,7 +310,7 @@ Los unicos que pueden eliminar una respuesta son el creador y el administrador d
 
 4. Descargue [MySQL Workbench.](https://dev.mysql.com/downloads/workbench/)
 
-5. Clone el repositoria mediante el siguiente enlace: https://github.com/dainercortes/challenge-one-foro-alura.git
+5. Clone el repositoria mediante el siguiente enlace: https://github.com/nosmow/challenge-one-foro-alura.git
 
 6. Abra MySQL Workbench y ejecute la siguiente linea de codigo para crear la base de datos:
 
@@ -374,9 +374,9 @@ http://localhost:8080/swagger-ui/index.html
 
 ## Autor
 
-|  [<img src="https://avatars.githubusercontent.com/u/95858653?v=4" width=115><br><sub>Dainer Cortés</sub>](https://github.com/dainercortes) |
+|  [<img src="https://avatars.githubusercontent.com/u/165520012?v=4" width=115><br><sub>Nosmow</sub>](https://github.com/nosmow) |
 | :---: |
 
 ## Licencia
 
-> Foro Alura está licenciado bajo la [licencia MIT](https://github.com/dainercortes/challenge-one-foro-alura/blob/main/LICENSE)
+> Foro Alura está licenciado bajo la [licencia MIT](https://github.com/nosmow/challenge-one-foro-alura/blob/main/LICENSE)
